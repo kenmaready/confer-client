@@ -1,3 +1,7 @@
+# Confer: The civilized way to tell someone they're on mute.
+
+This is the repository for the front end of Conver, a video conferencing app built on the MERN stack.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
